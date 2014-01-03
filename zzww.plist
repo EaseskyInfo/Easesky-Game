@@ -31,7 +31,7 @@
 		<key>Flurry</key>
 		<dict>
 			<key>appID</key>
-			<string></string>
+			<string>7YZXQHZZ2XJ384KWMVGB</string>
 		</dict>
 		<key>Mopub</key>
 		<dict>
@@ -73,16 +73,16 @@
 		<key>Adwo</key>
 		<dict>
 			<key>sdkKey</key>
-			<string>42d2f10fb0d840118633cb831d158862</string>
+			<string></string>
 		</dict>
 		<key>Domob</key>
 		<dict>
 			<key>publisherId</key>
 			<string>56OJwxNYuNJ0rXVpU9</string>
 			<key>bannerPlacementId</key>
-			<string>16TLuBMaApk8SNU-g7WtXqak</string>
-			<key>interstitialPlacementId</key>
 			<string>16TLuXpaApEAiNU-8geDoQRi</string>
+			<key>interstitialPlacementId</key>
+			<string>16TLuXpaApEAiNU-8PbmyBXz</string>
 			<key>splashAdPlacementId</key>
 			<string>16TLuXpaApEAiNU-8oo-0G8s</string>
 		</dict>
@@ -106,6 +106,8 @@
 				<integer>0</integer>
 				<key>revmobBanner</key>
 				<integer>0</integer>
+				<key>adwoBanner</key>
+				<integer>0</integer>
 				<key>showAfterCount</key>
 				<integer>0</integer>
 			</dict>
@@ -117,8 +119,12 @@
 				<integer>0</integer>
 				<key>applovinBanner</key>
 				<integer>0</integer>
-				<key>showAfterCount</key>
+				<key>adwoBanner</key>
 				<integer>0</integer>
+				<key>domobBanner</key>
+				<integer>1</integer>
+				<key>showAfterCount</key>
+				<integer>1</integer>
 			</dict>
 			<key>OnMainMenu</key>
 			<dict>
@@ -141,6 +147,10 @@
 				<integer>0</integer>
 				<key>revmobBanner</key>
 				<integer>0</integer>
+				<key>adwoBanner</key>
+				<integer>0</integer>
+				<key>domobBanner</key>
+				<integer>0</integer>
 				<key>showAfterCount</key>
 				<integer>0</integer>
 			</dict>
@@ -149,6 +159,8 @@
 				<key>mopubBanner</key>
 				<integer>0</integer>
 				<key>revmobBanner</key>
+				<integer>0</integer>
+				<key>adwoBanner</key>
 				<integer>0</integer>
 				<key>showAfterCount</key>
 				<integer>0</integer>
@@ -159,7 +171,7 @@
 			<key>OnSplash</key>
 			<dict>
 				<key>domobSplash</key>
-				<integer>1</integer>
+				<integer>0</integer>
 				<key>chartboost</key>
 				<integer>0</integer>
 				<key>playhavenFullscreen</key>
@@ -175,7 +187,7 @@
 				<key>revmobPopup</key>
 				<integer>0</integer>
 				<key>showAfterCount</key>
-				<integer>1</integer>
+				<integer>0</integer>
 			</dict>
 			<key>OnBecomeActive</key>
 			<dict>
@@ -194,9 +206,9 @@
 				<key>revmobPopup</key>
 				<integer>0</integer>
 				<key>domobFullscreen</key>
-				<integer>1</integer>
+				<integer>0</integer>
 				<key>adwoFullscreen</key>
-				<integer>1</integer>
+				<integer>0</integer>
 				<key>showAfterCount</key>
 				<integer>0</integer>
 			</dict>
@@ -219,7 +231,7 @@
 				<key>domobFullscreen</key>
 				<integer>1</integer>
 				<key>adwoFullscreen</key>
-				<integer>1</integer>
+				<integer>0</integer>
 				<key>showAfterCount</key>
 				<integer>1</integer>
 			</dict>
@@ -249,7 +261,7 @@
 				<key>applovinFullscreen</key>
 				<integer>0</integer>
 				<key>adwoFullscreen</key>
-				<integer>1</integer>
+				<integer>0</integer>
 				<key>domobFullscreen</key>
 				<integer>1</integer>
 				<key>playhavenFullscreen</key>
@@ -284,7 +296,7 @@
 				<key>revmobPopup</key>
 				<integer>0</integer>
 				<key>adwoFullscreen</key>
-				<integer>1</integer>
+				<integer>0</integer>
 				<key>domobFullscreen</key>
 				<integer>1</integer>
 				<key>showAfterCount</key>
