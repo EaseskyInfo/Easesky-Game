@@ -120,9 +120,9 @@
 				<key>applovinBanner</key>
 				<integer>0</integer>
 				<key>adwoBanner</key>
-				<integer>0</integer>
-				<key>domobBanner</key>
 				<integer>1</integer>
+				<key>domobBanner</key>
+				<integer>0</integer>
 				<key>showAfterCount</key>
 				<integer>1</integer>
 			</dict>
@@ -131,9 +131,9 @@
 				<key>mopubBanner</key>
 				<integer>0</integer>
 				<key>adwoBanner</key>
-				<integer>0</integer>
-				<key>domobBanner</key>
 				<integer>1</integer>
+				<key>domobBanner</key>
+				<integer>0</integer>
 				<key>revmobBanner</key>
 				<integer>0</integer>
 				<key>applovinBanner</key>
@@ -261,9 +261,9 @@
 				<key>applovinFullscreen</key>
 				<integer>0</integer>
 				<key>adwoFullscreen</key>
-				<integer>0</integer>
-				<key>domobFullscreen</key>
 				<integer>1</integer>
+				<key>domobFullscreen</key>
+				<integer>0</integer>
 				<key>playhavenFullscreen</key>
 				<integer>0</integer>
 				<key>chartboost</key>
@@ -296,9 +296,9 @@
 				<key>revmobPopup</key>
 				<integer>0</integer>
 				<key>adwoFullscreen</key>
-				<integer>0</integer>
-				<key>domobFullscreen</key>
 				<integer>1</integer>
+				<key>domobFullscreen</key>
+				<integer>0</integer>
 				<key>showAfterCount</key>
 				<integer>1</integer>
 			</dict>
